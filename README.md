@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Noah ojile</h1>
 <h3 align="center">A passionate developer + 3D Artist. I'm also very proficient in python data science.</h3>
-<img align="right" alt="Coding" width="640" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
+<img align="right" alt="Coding" width="500" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahojile&label=Profile%20views&color=0e75b6&style=flat" alt="noahojile" /> </p>
 
