@@ -1,4 +1,4 @@
-[![MasterHead](https://assets.rocketstock.com/uploads/2016/03/1-3NXEDMxxKzLeAxFSWUuCVg.gif)](https://Noahojile.io)
+[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-8bcfaef95f0b4d36d0c13794c0b23f05)](https://Noahojile.io)
 
 <h1 align="center">Hi 👋, I'm Noah ojile</h1>
 <h3 align="center">A passionate developer + 3D Artist. I'm also very proficient in python data science.</h3>
