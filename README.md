@@ -8,9 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ojilethegenius" target="blank"><img src="https://img.shields.io/twitter/follow/ojilethegenius?logo=twitter&style=for-the-badge" alt="ojilethegenius" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Flutter, Figma**
-
-- 💬 Ask me about **Pyhton data structures and Ml**
+- 💬 Ask me about **Pyhton / React**
 
 - 📫 How to reach me **noahojile.py@gmail.com**
 
