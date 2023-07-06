@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **noahojile.py@gmail.com**
 
-- 📄 My GitHub portfolio [Https//noahojile.github.io](Https//noahojile.github.io)
+- 📄 My GitHub portfolio [Https://noahojile.github.io](Https://noahojile.github.io)
 
 - ⚡ Fun fact **I am a really good artist (Drawing)**
 
