@@ -1,4 +1,4 @@
-8[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-8bcfaef95f0b4d36d0c13794c0b23f05)](https://Noahojile.io)
+[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-8bcfaef95f0b4d36d0c13794c0b23f05)](https://Noahojile.io)
 <h1 align="center">Hi 👋, I'm Noah Ojile</h1>
 <h3 align="center">An AI and web developer</h3>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
